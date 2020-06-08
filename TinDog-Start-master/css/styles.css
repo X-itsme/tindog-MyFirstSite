@@ -51,9 +51,113 @@ body{
     padding: 7% 15%;
     text-align: center;
 }
-h3{
+#feature ,#feature1 ,#feature2{
     font-family: 'Montserrat', Bold;
 }
 p{
     color: #8f8f8f;
+}
+#testimonials{
+    padding: 7% 15%;
+    text-align: center;
+    background-color: #ef8172;
+    color: white;
+}
+h2{
+    font-family: 'Montserrat',Black;
+    size: 3rem;
+}
+#testimonial ,#testimonial1{
+    width: 10%;
+    height: 20%;
+    border-radius: 100%;
+    margin: 20px;
+}
+#press{
+    background-color: #ef8172;
+    padding-bottom: 3%;
+    text-align: center;
+}
+#imgP{
+    width: 15%;
+    margin: 20px 20px 50px;
+}
+#imgP1{
+    width: 15%;
+    margin: 20px 20px 50px;
+}
+#imgP2{
+    width: 15%;
+    margin: 20px 20px 50px;
+}
+#imgP3{
+    width: 15%;
+    margin: 20px 20px 50px;
+}
+#testimonial-text ,#testimonial-text1{
+    font-weight: 700;
+    font-size: 3rem;
+    line-height: 1.5;
+}
+#planPricing{
+    padding-top: 11%;
+    text-align: center;
+    font-size: xxx-large;
+}
+#pPdes{
+    text-align: center;
+}
+#cardTitle{
+    font-size: 2.5rem;
+    text-align: center;
+    font-family: "Montserrat", thin;
+}
+#cardBody ,#cardBody1 ,#cardBody2{
+    text-align: center;
+}
+#cardSub ,#cardSub1, #cardSub2{
+    font-size: 3rem;
+}
+#btnCard{
+    border-color: #ff4c68;
+    text-emphasis-color: #ff4c68;
+    width: 15rem;
+}
+#btnCard:hover{
+    background-color: #ef8172;
+}
+#btnCard1 ,#btnCard2{
+    width: 15rem;
+    background-color: #ef8172;
+    color: white;
+
+}
+#btnCard1:hover{
+    background-color: #ff4c68;
+}
+#btnCard2:hover{
+    background-color: #ff4c68;
+}
+#card ,#card1 ,#card2{
+    width: 20rem;
+}
+#row{
+    margin: 0 4% 0 8%;
+}
+#card1{
+    margin: 0 5% 3%;
+}
+#cta{
+    background-color: #ff4c68;
+    text-align: center;
+    margin-top: 7%;
+}
+#fttl{
+    font-family: "Monserrat";
+    color: white;
+    padding-top: 8%;
+    font-size: 3rem;
+}
+#footer{
+    margin: 5% 0 0 40%;
 }
